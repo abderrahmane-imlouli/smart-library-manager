@@ -41,8 +41,8 @@ The app lets you manage a small book collection from a graphical interface. You 
 Clone the repository and open the project folder:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/abderrahmane-imlouli/smart-library-manager.git
+cd smart-library-manager
 ```
 
 Run the app:
