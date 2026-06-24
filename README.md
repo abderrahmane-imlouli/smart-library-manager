@@ -97,4 +97,28 @@ dist/smart_library_desktop.exe
 - The database is stored locally in `library.db`.
 - If you share this project on GitHub, you may want to ignore generated files such as `build/`, `dist/`, and `*.spec` depending on whether you want to include the executable build files.
 
+## screenshots from the app
+* app icon :
+  
+  ![Demo](screenshots/appicon.png)
+  
+* manage books :
+  
+  ![Demo](screenshots/manage_books.png)
+  
+* borrow and return books :
+
+  ![Demo](screenshots/borrow_return.png)
+  
+* search for a book :
+  
+  ![Demo](screenshots/search.png)
+  
+* statistics :
+  
+  ![Demo](screenshots/statistics.png)
+  
+## Author 
+ imlouli abderrahmane
+ 
 ## License
