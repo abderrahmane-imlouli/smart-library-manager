@@ -122,3 +122,4 @@ dist/smart_library_desktop.exe
  imlouli abderrahmane
  
 ## License
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
